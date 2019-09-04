@@ -1,0 +1,27 @@
+TF matrix
+[[1, 1, 1, 0], [1, 1, 1, 1], [1, 0, 0, 0]]
+
+TF IDF matrix
+[[0.0, 0.5849625007211562, 0.5849625007211562, 0.0], [0.0, 0.5849625007211562, 0.5849625007211562, 1.5849625007211563], [0.0, 0.0, 0.0, 0.0]]
+
+Query matrix
+[0.0, 0.2924812503605781, 0.0, 0.0]
+
+Document distances
+[0.8272619019995404, 1.7878669925898176, 0.0]
+
+Query distance
+0.2924812503605781
+
+Cosine similarities
+[0.7071067811865476, 0.32718457421365993, -1]
+
+Total matching documents
+2
+
+Matching documents ranking
+['D1', 'D2']
+
+Content of matching documents:
+canada halifax park
+canada halifax school park
